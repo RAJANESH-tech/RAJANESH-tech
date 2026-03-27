@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajanesh
 
-<!--
-**RAJANESH-tech/RAJANESH-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science Student
+💻 Learning Java & Data Structures
+🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 LinkedIn: https://linkedin.com/in/RAJANESH S
+* 🧠 LeetCode: https://leetcode.com/RAJANESHS
+
+## 📚 Currently Learning
+
+* Java
+* DSA
+* Problem Solving
+
+## 🎯 Goal
+
+To become a skilled full stack developer 🚀
