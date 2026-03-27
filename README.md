@@ -6,7 +6,7 @@
 
 ## 🔗 Connect with me
 
-* 💼 LinkedIn: https://linkedin.com/in/RAJANESH S
+* 💼 LinkedIn: https://linkedin.com/in/rajanesh-s
 * 🧠 LeetCode: https://leetcode.com/RAJANESHS
 
 ## 📚 Currently Learning
